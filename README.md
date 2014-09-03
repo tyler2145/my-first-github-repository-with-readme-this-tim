@@ -1,4 +1,4 @@
 my-first-github-repository-with-readme-this-tim
 ===============================================
 
-my first one
+my name is tyler i have a dog and two cats and i love cheese
